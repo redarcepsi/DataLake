@@ -57,19 +57,19 @@ Jointures multi-sources, création d'indicateurs métier et scores simples de ri
 - **Autres bibliothèques** : (à préciser selon le contenu du repository)
 
 ## Architecture
-DataLake/
-├── config/
-├── data/ 
-├────── curated/
-├────── raw/
-├────────── logs/
-├────────── sales/
-├────────── transactions/
-├────── stagging/
-├── notebooks/
-├── src/
-├── requirements.txt
-└── README.md
+DataLake/<br>
+├── config/ <br>
+├── data/<br>
+├────── curated/<br>
+├────── raw/<br>
+├────────── logs/<br>
+├────────── sales/<br>
+├────────── transactions/<br>
+├────── stagging/<br>
+├── notebooks/<br>
+├── src/<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 ## Installation et configuration
 

@@ -56,6 +56,21 @@ Jointures multi-sources, création d'indicateurs métier et scores simples de ri
 - **Outils de gestion de données** : Apache Hadoop, Apache Hive (si applicable)
 - **Autres bibliothèques** : (à préciser selon le contenu du repository)
 
+## Architecture
+DataLake/
+├── config/
+├── data/ 
+├────── curated/
+├────── raw/
+├────────── logs/
+├────────── sales/
+├────────── transactions/
+├────── stagging/
+├── notebooks/
+├── src/
+├── requirements.txt
+└── README.md
+
 ## Installation et configuration
 
 1. Cloner le repository :
